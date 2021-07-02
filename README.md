@@ -28,3 +28,13 @@ The second page contains a news section which the user can use to get up to spee
 
 - [Dribbble](https://dribbble.com/)
 - [Canva](https://www.canva.com/)
+
+# SRS
+
+- Purpose: The indent of this website is to be a quick summary of news and provide an inspirational quote to prepare the user for a fulfilling day
+
+- System features:
+  - extract inspirational quote and picture from an external api and display it to the user everytime the website is loaded
+  - Provide up-to-date news on whats happening around the world
+  - User has the ability to enter the city of where they reside for more specific news
+  - Additional features: translate quote / webpage to relevant user-selected language
