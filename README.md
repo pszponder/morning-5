@@ -1,5 +1,9 @@
 # Morning 5 Website
 
+## Project Purpose
+
+- This project was made to practice working as a team, pair programming, as well as using external api's to extract and display information.
+
 ## Website Purpose
 
 This website is designed to be used in the morning to help the user start their day.
@@ -18,23 +22,8 @@ The second page contains a news section which the user can use to get up to spee
 - Wireframe
 - Final project needs to be uploaded LIVE
 
-## API Sources
-
-- [NewsAPI](https://newsapi.org/)
-- [Unsplash API](https://unsplash.com/developers)
-- [They Said So API](https://theysaidso.com/api/)
-
 ## Resources
 
 - [Dribbble](https://dribbble.com/)
 - [Canva](https://www.canva.com/)
-
-# SRS
-
-- Purpose: The indent of this website is to be a quick summary of news and provide an inspirational quote to prepare the user for a fulfilling day
-
-- System features:
-  - extract inspirational quote and picture from an external api and display it to the user everytime the website is loaded
-  - Provide up-to-date news on whats happening around the world
-  - User has the ability to enter the city of where they reside for more specific news
-  - Additional features: translate quote / webpage to relevant user-selected language
+- [card hover interactions](https://codepen.io/hexagoncircle/pen/XWbWKwL)
