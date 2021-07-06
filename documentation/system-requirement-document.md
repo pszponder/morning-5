@@ -35,8 +35,7 @@ This website provides a quick summary of news and provides an inspirational quot
     - Add a border around the quote to differentiate it from the rest of the background
 - News Page
   - Display a sidebar which contains a search bar on top to search for keywords or location to narrow the news results
-  - Display a toggle button which allows the user to change their search between keywords and location
-  - Display toggle buttons which allows the user to specify a sub-topic for the news as an additional filter (top stories, world news, technology, business)
+  - Display a menu which allows the user to specify a sub-topic for the news as an additional filter (top stories, world news, technology, business)
   - To the side of the sidebar, display the search results in the form of a card for each news article
     - Each card will show:
       - The title of the news article
