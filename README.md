@@ -27,3 +27,4 @@ The second page contains a news section which the user can use to get up to spee
 - [Dribbble](https://dribbble.com/)
 - [Canva](https://www.canva.com/)
 - [card hover interactions](https://codepen.io/hexagoncircle/pen/XWbWKwL)
+- [Color Hunt](https://colorhunt.co/palette/222831393e4600adb5eeeeee)
