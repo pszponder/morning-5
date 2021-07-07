@@ -8,11 +8,10 @@ This website provides a quick summary of news and provides an inspirational quot
 
 1. As a user, I want to be able to view a randomly generated inspirational quote to give me positive energy.
 2. As a user, I want to be able to view a randomly generated inspirational background to give me positive energy.
-3. As a user, I want to be able to see the local time so that I know what time it is.
-4. As a user, I want to be able to view the news so that I may be up to date with recent events.
-5. As a user, I want to be able to specify the category of news to read (top stories, world, technology, business) to narrow down my news results.
-6. As a user, I want to be able to specify the region (city or country) so that I can view news relevant to that region.
-7. As a user, I want to be able to search for news articles based on keywords to narrow down my news results.
+3. As a user, I want to be able to view the news so that I may be up to date with recent events.
+4. As a user, I want to be able to specify the category of news to read (top stories, world, technology, business) to narrow down my news results.
+5. As a user, I want to be able to specify the region (city or country) so that I can view news relevant to that region.
+6. As a user, I want to be able to search for news articles based on keywords to narrow down my news results.
 
 ## User Flow:
 
@@ -34,9 +33,9 @@ This website provides a quick summary of news and provides an inspirational quot
   - Display an inspiring quote in the middle of the screen
     - Add a border around the quote to differentiate it from the rest of the background
 - News Page
-  - Display a sidebar which contains a search bar on top to search for keywords or location to narrow the news results
+  - Contains a search bar on top to search for keywords or location to narrow the news results
   - Display a menu which allows the user to specify a sub-topic for the news as an additional filter (top stories, world news, technology, business)
-  - To the side of the sidebar, display the search results in the form of a card for each news article
+  - Display the search results in the form of a card for each news article
     - Each card will show:
       - The title of the news article
       - The author of the news article
