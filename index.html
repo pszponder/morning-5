@@ -16,7 +16,7 @@
       href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet"
     />
-    <script src="./js/quote.js"></script>
+    <script src="./js/quote.js" defer></script>
   </head>
   <body>
     <header>
@@ -24,7 +24,8 @@
         <div class="navbar">
           <nav>
             <ul>
-              <li class="button" onclick="getQuote()">
+              <!-- onclick="getQuote()" -->
+              <li class="button" id="retrieveQuote">
                 <a href="./index.html">Get Inspired</a>
                 <span class="material-icons"> refresh </span>
               </li>
